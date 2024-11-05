@@ -5,6 +5,7 @@ body {
     text-align: justify;
     background-image: url(kepek/hatter-1920x1080.jpg);
     border: 1px solid, grey;
+    border-radius: 10px;
 
 }
 .fejlec {
