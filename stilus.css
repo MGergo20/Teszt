@@ -54,7 +54,9 @@ body {
     color: white;
     font-size: 20px;
 }
-#a:hover{
+a:hover{
+    z-index: 1;
+    background-color: white;
     color: black;
 }
 p {
